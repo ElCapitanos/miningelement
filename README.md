@@ -1,4 +1,4 @@
-# miningelement
+# Отрисовка произвольной API в виде диаграмм
 
 https://elcapitanos.github.io/miningelement/ - результат
 
